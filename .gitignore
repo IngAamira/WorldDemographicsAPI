@@ -208,7 +208,15 @@ $RECYCLE.BIN/
 
 # otrhers
 *.pyc
-*env
 *__pycache__
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode,pycharm
