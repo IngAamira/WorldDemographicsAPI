@@ -37,7 +37,7 @@ For detailed information on available routes and endpoints, refer to the [API Do
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/WorldDemographicsAPI.git`
+1. Clone this repository: `git clone https://github.com/IngAamira/WorldDemographicsAPI`
 2. Install environment: `python3 -m venv env`
 3. Activate environment: `source env/bin/activate`
 4. Install the required dependencies by running: `pip install -r requirements.txt`
